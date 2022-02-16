@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: The Practice of Reflection'
 uid: 18de1c41-fdff-69c0-0a81-e7f7f2a8e13f

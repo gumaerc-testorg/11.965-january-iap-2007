@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Ways of Knowledge Generation'
 uid: 8717dd6e-d42c-c3d9-6640-bf5c9013cf9b

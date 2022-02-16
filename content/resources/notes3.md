@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains notes on lecture ways of knowledge generation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/f2bf034769b6bdf025eeeb071281bbf7_notes3.pdf
+file: /media/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/f2bf034769b6bdf025eeeb071281bbf7_notes3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Videos
+ocw_type: OCWFile
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
 resourcetype: Document
 title: notes3.pdf
 uid: f2bf0347-69b6-bdf0-25ee-eb071281bbf7

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Reframing for Strategic Creativity'
 uid: 86d17c17-aa4a-d1ab-c677-572f50e4bbbe

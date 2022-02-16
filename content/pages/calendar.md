@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 070a0ab9-36d6-ff51-7db8-34ff5fc6d3d9
 ---
@@ -32,7 +34,7 @@ Introduction to Reflective Practice
 
 Presentation of the course, its purpose and methodology.
 
-Presentation of the approach of Donald Schön for Reflective Practice and its importance in the 21st century.
+Presentation of the approach of Donald Schön for Reflective Practice and its importance in the 21{{< sup "st" >}} century.
 
 Exercise: Experience of learning. Each student will be asked to remember a relevant learning experience, and to describe its process graphically. The analysis will consist of pattern identification and comparison with the known learning cycles.
 
@@ -209,14 +211,14 @@ The discussion will be about the challenges for acquiring the capacity of going 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Frontiers of Schön's Approach and Its Relevance in the 21st Century
+Frontiers of Schön's Approach and Its Relevance in the 21{{< sup "st" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 
 
 Presentation and discussion of the new advances post-Schön: the globalization of economy, the Internet, the dispersion of innovation, infotopia, wikipedia, the emergence of new methods of knowledge creation, the searching engine, the emergence of Asia, the global distribution of scientific edge, the invention and reinvention of the professions, etc.
 
-A reflective dialogue about the importance of reflective practice for a professional to be aware of his cognitive resources, and to manage his practice and evolution in the environment of the 21st Century.
+A reflective dialogue about the importance of reflective practice for a professional to be aware of his cognitive resources, and to manage his practice and evolution in the environment of the 21{{< sup "st" >}} Century.
 
 Discussion of final paper. This final assignment is a reflection paper in which students identify the most important lessons or knowledge gained from the course and how they intend to use these in their future professional work and/or development.
 

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction to Reflective Practice'
 uid: 7450f2ea-280d-89c0-9a9e-32b451ba1a63

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Theories, Knowledge and Practice'
 uid: c4d01b15-01f1-cb15-ce93-f8f99260c69f

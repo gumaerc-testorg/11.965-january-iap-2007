@@ -1,6 +1,9 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos and Notes
 uid: 37ce4cfb-a382-d3b9-c7ad-12575988b2a0
 videos:

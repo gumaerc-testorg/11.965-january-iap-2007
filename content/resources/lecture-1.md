@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos and Notes
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: Introduction to Reflective Practice'
 uid: 7450f2ea-280d-89c0-9a9e-32b451ba1a63
 video_files:
@@ -22,6 +25,9 @@ video_metadata:
   youtube_id: QfuVAKCO61M
 ---
 
-Class notes ([PDF]({{< baseurl >}}/resources/notes1))
+Class notes ({{% resource_link 26a509d8-163f-23f1-4582-1e3613a56aae "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/lect1))
+Presentation ({{% resource_link 06d9fde0-4de1-227a-0669-a09eeff511f1 "PDF" %}})
+
+
+

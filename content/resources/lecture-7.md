@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos and Notes
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 7: Reframing for Resolving Intractable Controversies'
 uid: 94728e24-c427-3d74-708e-653b172d7b6a
 video_files:
@@ -22,6 +25,9 @@ video_metadata:
   youtube_id: AivFineIBqA
 ---
 
-Class notes ([PDF]({{< baseurl >}}/resources/notes7))
+Class notes ({{% resource_link 96b41f46-0d02-64e5-0d01-0e822b82f4ad "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/lect7))
+Presentation ({{% resource_link 46b8350a-b70c-8bce-fae9-03d3f7ea8d7b "PDF" %}})
+
+
+

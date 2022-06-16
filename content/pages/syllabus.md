@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course,
+  methodology and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -48,7 +50,7 @@ The aforementioned class format may vary depending on the specific processes use
 Course Requirements
 -------------------
 
-An average of two article- or chapter-length [readings]({{< baseurl >}}/pages/readings) will be assigned each session, to be read before the session for which they are assigned. Reading assignments are specified for each class in the course syllabus. Optional readings are also listed and students are encouraged to read or skim these materials as well. Reading assignments are from the required course book, _The Reflective Practitioner: How Professionals Think in Action_ by Donald Schön, and a photocopied packet of reading materials.
+An average of two article- or chapter-length {{% resource_link 61e46a94-b2a0-b483-01c7-71febd12e9b3 "readings" %}} will be assigned each session, to be read before the session for which they are assigned. Reading assignments are specified for each class in the course syllabus. Optional readings are also listed and students are encouraged to read or skim these materials as well. Reading assignments are from the required course book, _The Reflective Practitioner: How Professionals Think in Action_ by Donald Schön, and a photocopied packet of reading materials.
 
 For those classes in which preparation for the practical in-class exercises is necessary, students will also be assigned a short reflection exercise to be completed before the class session. Students should attend class regularly and be prepared to participate in the practical exercises and contribute to class discussions.
 

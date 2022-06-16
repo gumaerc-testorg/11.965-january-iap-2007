@@ -1,9 +1,11 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos and Notes
@@ -11,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Virtual Worlds and Their Role in Creative Work'
 uid: 70045f06-a527-d34a-3865-65b3bec1e1eb
 video_files:
@@ -22,6 +25,9 @@ video_metadata:
   youtube_id: SsHQjxYJI94
 ---
 
-Class notes ([PDF]({{< baseurl >}}/resources/notes5))
+Class notes ({{% resource_link 26095b2d-7f58-8979-5830-e2c1ff85f23e "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/lect5))
+Presentation ({{% resource_link 3acad7fa-9c8a-adfb-1684-c12410af2f83 "PDF" %}})
+
+
+

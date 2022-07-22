@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains information about additional reading materials
+  for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 61e46a94-b2a0-b483-01c7-71febd12e9b3
 ---
@@ -181,7 +186,7 @@ Kelley, Thomas, and Jonathan Littman. "The Anthropologist." In _The Ten Faces of
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Frontiers of Schön's Approach and Its Relevance in the 21st Century
+Frontiers of Schön's Approach and Its Relevance in the 21{{< sup "st" >}} Century
 {{< tdclose >}}
 {{< tdopen >}}
 Sunstein, Cass. "Introduction: Dreams and Nightmares" and "Many Working Minds: Wikis, Open Source Software, and Blogs." In _Infotopia: How Many Minds Produce Knowledge_. New York, NY: Oxford University Press, 2006. ISBN: 0195189280.

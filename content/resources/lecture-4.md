@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Theories, Knowledge and Practice'
 uid: c4d01b15-01f1-cb15-ce93-f8f99260c69f
 video_files:
@@ -14,6 +26,7 @@ video_metadata:
   youtube_id: 9QVLu0n_bzg
 ---
 
-Class notes ([PDF]({{< baseurl >}}/resources/notes4))
+Class notes ({{% resource_link 1ff0ee3c-9903-5e86-9d89-1f21e61fc4ed "PDF" %}})
 
-Presentation ([PDF]({{< baseurl >}}/resources/lect4))
+Presentation ({{% resource_link bc59737e-7444-7c5e-548b-58af2cd72bd5 "PDF" %}})
+

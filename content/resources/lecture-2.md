@@ -1,8 +1,20 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: ''
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos and Notes
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: The Practice of Reflection'
 uid: 18de1c41-fdff-69c0-0a81-e7f7f2a8e13f
 video_files:
@@ -14,4 +26,5 @@ video_metadata:
   youtube_id: IxaTNJh9rXA
 ---
 
-Class notes ([PDF]({{< baseurl >}}/resources/notes2))
+Class notes ({{% resource_link f7ed7b15-d21f-57f6-f9f1-8e660a303343 "PDF" %}})
+

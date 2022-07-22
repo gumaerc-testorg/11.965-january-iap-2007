@@ -5,6 +5,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: notes6.pdf
 uid: 27113dd7-f2df-8122-dd96-7962ff4eea07
 ---
 This resource contains notes on lecture frames, perceptions, and interpretations.
-

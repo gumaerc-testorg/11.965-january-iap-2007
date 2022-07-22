@@ -6,6 +6,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes5.pdf
 uid: 26095b2d-7f58-8979-5830-e2c1ff85f23e
 ---
 This resource contains notes on lecture virtual worlds and their role in creative work.
-

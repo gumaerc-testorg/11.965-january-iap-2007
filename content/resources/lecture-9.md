@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 Class notes ({{% resource_link 114d9523-ae7e-bbc2-e315-f7ed66ae3b8b "PDF" %}})
 
 Presentation ({{% resource_link 2e8ccf20-952e-f555-65ad-3782500c5656 "PDF" %}})
-
-
 

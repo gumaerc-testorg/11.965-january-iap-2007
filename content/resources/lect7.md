@@ -6,6 +6,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect7.pdf
 uid: 46b8350a-b70c-8bce-fae9-03d3f7ea8d7b
 ---
 This resource contains information on topics naming and framing the energy problem, discovering assumptions and exploring assumptions.
-

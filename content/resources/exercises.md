@@ -5,6 +5,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exercises.pdf
 uid: 9bf4f91d-9db7-9f5d-c1bf-ba24d48b0da2
 ---
 This resource gives the descriptions of the in-class activities.
-

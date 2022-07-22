@@ -6,6 +6,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: notes7.pdf
 uid: 96b41f46-0d02-64e5-0d01-0e822b82f4ad
 ---
 This resource contains notes on lecture reframing for resolving intractable controversies.
-

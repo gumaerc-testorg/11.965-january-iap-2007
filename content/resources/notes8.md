@@ -5,6 +5,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: notes8.pdf
 uid: e83ecaca-aa89-4821-5241-484a8f5cf889
 ---
 This resource contains notes on lecture reframing for strategic creativity.
-

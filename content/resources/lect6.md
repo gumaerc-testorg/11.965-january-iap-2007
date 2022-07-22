@@ -6,6 +6,7 @@ file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learnin
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Videos and Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect6.pdf
 uid: ed9ce060-11e6-a4a5-93b9-e91efbd6cfd1
 ---
 This resource contains information on topics the process of framing, rhetorical and action frames, frames and metaphors and a precondition for reframing.
-

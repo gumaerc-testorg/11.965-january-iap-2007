@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on topics the virtual world of the
   designer, the abstract model of the psychologist and what the dentist sees.
 file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/3acad7fa9c8aadfb1684c12410af2f83_lect5.pdf
+file_size: 95023
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

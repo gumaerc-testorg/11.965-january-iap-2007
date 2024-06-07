@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource gives the descriptions of the in-class activities.
 file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/9bf4f91d9db79f5dc1bfba24d48b0da2_exercises.pdf
+file_size: 57205
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains notes on lecture frames, perceptions, and interpretations.
 file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/27113dd7f2df8122dd967962ff4eea07_notes6.pdf
+file_size: 35842
 file_type: application/pdf
 learning_resource_types:
 - Lecture Videos

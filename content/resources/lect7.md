@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics naming and framing the energy
   problem, discovering assumptions and exploring assumptions.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/46b8350ab70c8bcefae903d3f7ea8d7b_lect7.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/46b8350ab70c8bcefae903d3f7ea8d7b_lect7.pdf
 file_size: 49544
 file_type: application/pdf
 learning_resource_types:

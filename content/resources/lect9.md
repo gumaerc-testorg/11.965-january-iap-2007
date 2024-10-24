@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics evolving through conceptual
   innovation, technical and conceptual learning and paradigm shift.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/2e8ccf20952ef55565ad3782500c5656_lect9.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/2e8ccf20952ef55565ad3782500c5656_lect9.pdf
 file_size: 88752
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains notes on lecture virtual worlds and their role
   in creative work.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/26095b2d7f5889795830e2c1ff85f23e_notes5.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/26095b2d7f5889795830e2c1ff85f23e_notes5.pdf
 file_size: 122744
 file_type: application/pdf
 learning_resource_types:

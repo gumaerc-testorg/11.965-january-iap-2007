@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on lecture the practice of reflection.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/f7ed7b15d21f57f6f9f18e660a303343_notes2.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/f7ed7b15d21f57f6f9f18e660a303343_notes2.pdf
 file_size: 56114
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on lecture theories, knowledge and practice.
-file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/1ff0ee3c99035e869d891f21e61fc4ed_notes4.pdf
+file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/1ff0ee3c99035e869d891f21e61fc4ed_notes4.pdf
 file_size: 50369
 file_type: application/pdf
 learning_resource_types:

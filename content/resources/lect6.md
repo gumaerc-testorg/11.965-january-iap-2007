@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics the process of framing,
   rhetorical and action frames, frames and metaphors and a precondition for reframing.
-file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/ed9ce06011e6a4a593b9e91efbd6cfd1_lect6.pdf
+file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/ed9ce06011e6a4a593b9e91efbd6cfd1_lect6.pdf
 file_size: 48027
 file_type: application/pdf
 learning_resource_types:

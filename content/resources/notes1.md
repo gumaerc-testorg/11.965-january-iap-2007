@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics reflective practice and
   powerpoint slides.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/26a509d8163f23f145821e3613a56aae_notes1.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/26a509d8163f23f145821e3613a56aae_notes1.pdf
 file_size: 35871
 file_type: application/pdf
 learning_resource_types:

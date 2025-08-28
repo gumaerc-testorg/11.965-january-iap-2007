@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on lecture conceptual learning.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/114d9523ae7ebbc2e315f7ed66ae3b8b_notes9.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/114d9523ae7ebbc2e315f7ed66ae3b8b_notes9.pdf
 file_size: 54452
 file_type: application/pdf
 learning_resource_types:

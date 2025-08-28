@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on topics firefighters, reflective
   practice, technical rationality and rigor or relevance.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/06d9fde04de1227a0669a09eeff511f1_lect1.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/06d9fde04de1227a0669a09eeff511f1_lect1.pdf
 file_size: 110451
 file_type: application/pdf
 learning_resource_types:

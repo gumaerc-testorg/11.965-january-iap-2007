@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on lecture reframing for strategic creativity.
-file: /courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/e83ecacaaa8948215241484a8f5cf889_notes8.pdf
+file: /ol-ocw-studio-app/courses/11-965-reflective-practice-an-approach-for-expanding-your-learning-frontiers-january-iap-2007/e83ecacaaa8948215241484a8f5cf889_notes8.pdf
 file_size: 59934
 file_type: application/pdf
 learning_resource_types:
